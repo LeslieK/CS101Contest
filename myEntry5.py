@@ -153,7 +153,7 @@ fhand.close()
 # pp. 2, 4, 5
 
 # Note: nutrientIndex is structured to store multiple sets of RDI values for each nutrient
-# Would be interesting to generate a plot for each countries values
+# Would be interesting to generate a plot for each country's RDI values
 # Need to learn about plotting in python
 #
 '''
